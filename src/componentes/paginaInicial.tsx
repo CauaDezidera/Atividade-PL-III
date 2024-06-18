@@ -12,7 +12,7 @@ const PaginaInicial: React.FC<Props> = ({ tema }) => {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        height: "90vh",
+        height: "95vh",
         backgroundColor: tema,
         margin: "0",
         padding: "0",
